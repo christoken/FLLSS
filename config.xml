@@ -2,7 +2,7 @@
 <widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
 	<name>FLLSS</name>
 	<description>
-		Fingerprint Location System
+		Fingerprint Location Systems
 	</description>
 	<author email="chepken@gmail.com" href="www.threepillars.co.ke">
 	  Chris Ken
